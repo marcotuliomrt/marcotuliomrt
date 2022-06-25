@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img align=”left” alt="LinkedIn" width="20px" scr="images/linkedin.png" />][linkedin]
+[<img align=”left” alt="LinkedIn" width="20px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
