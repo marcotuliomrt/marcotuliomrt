@@ -17,10 +17,12 @@ I'm Marco, a mechatronics student at Insper from São Paulo, Brazil. Most of my 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
 <p />
   
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuliomrt&theme=dracula)](https://github.com/marcotuliomrt/github-readme-stats) -->
 
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuliomrt&theme=dracula)](https://github.com/marcotuliomrt/github-readme-stats) -->
-
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotuliomrt&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcotuliomrt&show_icons=true&theme=radical) -->
+ 
+ 
 ### Frameworks & Tools:
 <p align="center">
  <img src="https://img.shields.io/badge/Jupyter-f47820?style=for-the-badge&logo=Jupyter&logoColor=white" alt="JupyterNotebook">
