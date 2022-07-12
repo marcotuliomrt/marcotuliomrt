@@ -43,7 +43,6 @@ I'm Marco, a mechatronics student at Insper from São Paulo, Brazil. Most of my 
 <a href="https://os.mbed.com/users/marcotmrt/"><img src="https://img.shields.io/badge/ARM Mbed-406cb4?style=for-the-badge&logo=Mbed&logoColor=black" alt="Kaggle"></a>
 <a href=""><img src="https://img.shields.io/badge/Keil studio-406cf4?style=for-the-badge&logo=KeilStudio&logoColor=black" alt="Kaggle"></a>
 
-<a href=""><img src="https://img.shields.io/badge/Instructables-406cf4?style=for-t
 
 
 ### Connect with me:
