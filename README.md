@@ -30,8 +30,8 @@ I'm Marco, a mechatronics student at Insper from São Paulo, Brazil. Most of my 
 
 ### Frameworks & Tools:
 <p align="center">
+ <img src="https://img.shields.io/badge/Cube IDE-389cd4?style=for-the-badge&logo=CubeIDE&logoColor=white" alt="CubeIDE">
  <img src="https://img.shields.io/badge/Jupyter-f47820?style=for-the-badge&logo=Jupyter&logoColor=white" alt="JupyterNotebook">
- <img src="https://img.shields.io/badge/Arduino-089494?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
  <img src="https://img.shields.io/badge/VSCode-00599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="VSCode">
  <img src="https://img.shields.io/badge/Pytorch-e84c2c?style=for-the-badge&logo=Pytorch&logoColor=white" alt="PyTorch">
  <img src="https://img.shields.io/badge/Keras-DD0031?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
