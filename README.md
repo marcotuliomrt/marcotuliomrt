@@ -1,6 +1,6 @@
  
 ### About me:
-I'm Marco, a mechatronics student at Insper from São Paulo, Brazil. Most of my interests are related to technology in the area of robotics, and the keywords would be: 
+I'm Marco, a mechatronics student at Insper from São Paulo, Brazil. Most of my interests are related to technology and innovation in the field of robotics and AI, and the keywords would be: 
 * Embedded systems
 * Computer vision
 * Neural networks
